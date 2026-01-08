@@ -1,0 +1,21 @@
+{
+  "name": "introduction-to-computer-vision-with-opencv-2026",
+  "version": "1.0.0",
+  "description": "An intro to Computer Vision course for undergraduate AI students with python knowledge",
+  "scripts": {
+    "start": "myst start",
+    "build": "myst build --html",
+    "clean": "myst clean --all"
+  },
+  "keywords": [
+    "liquid-books",
+    "myst",
+    "jupyter-book",
+    "documentation"
+  ],
+  "author": "Dr. Ernesto Lee",
+  "license": "MIT",
+  "devDependencies": {
+    "mystmd": "^1.0.0"
+  }
+}
